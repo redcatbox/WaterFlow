@@ -14,7 +14,7 @@ Created with February 2013 UDK BETA2
 
 ## Houdini files
 
-Created with Houdini FX 12.1.33
+Created with Houdini FX 18.0.566
  - CombExample.hip – example of Comb tool.
  - ForcesExample.hip – example of forces effects.
  - CurvesExample.hip – example of creating flow using curves.
