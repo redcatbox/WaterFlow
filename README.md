@@ -21,4 +21,8 @@ Textures folder with final textures.
 
 ## UE4
 
-Unreal Engine 4.26 project with materials examples.
+Unreal Engine 4.27 project with materials examples.
+
+## UE5
+
+Unreal Engine 5.2 project with materials examples.
